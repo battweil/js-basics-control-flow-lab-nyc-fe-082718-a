@@ -16,8 +16,7 @@ function scuberGreetingForFeet(feet) {
    if (city = "NYC"){
     return 'Ok, sounds good.'
     }
-
-// }
+}
 
 // function switchOnCharmFromTip(){
   
