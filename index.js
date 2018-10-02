@@ -28,6 +28,7 @@ function switchOnCharmFromTip(tipGenerosity){
     return "Thank you."
   }
   else if(tipGenerosity==="thanks for everything"){
+    return "Bye"
     
   }
 }
