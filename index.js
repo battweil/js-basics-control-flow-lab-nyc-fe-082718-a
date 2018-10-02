@@ -1,6 +1,6 @@
 // Write your code in this file!
 
-let feet = 200;
+//let feet = 200;
 
 function scuberGreetingForFeet(feet) {
   if (feet <= 400) {
