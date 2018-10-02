@@ -20,6 +20,8 @@ function scuberGreetingForFeet(feet) {
     }
 }
 
-// function switchOnCharmFromTip(){
-  
-// }
+function switchOnCharmFromTip(tipGenerosity){
+  if (tipGenerosity === "generous"){
+    
+  }
+}
