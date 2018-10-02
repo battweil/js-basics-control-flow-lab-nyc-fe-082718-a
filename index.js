@@ -12,11 +12,11 @@ function scuberGreetingForFeet(feet) {
   }
 }
 
-function ternaryCheckCity(city){
-  if (city)
+// function ternaryCheckCity(city){
+//   if (city)
 
-}
+// }
 
-function switchOnCharmFromTip(){
+// function switchOnCharmFromTip(){
   
-}
+// }
