@@ -5,7 +5,7 @@ let feet = 200;
 function scuberGreetingForFeet(feet) {
   if (feet > 0) {
     return "This one is on me!"
-  } else if (feet ) {
-    return "pay pleaz";
-  }
+  } else if (feet > 2500) {
+    return "I will gladly take your thirty bucks."
+  } else if ()
 }
