@@ -1,7 +1,5 @@
 // Write your code in this file!
 
-//let feet = 200;
-
 function scuberGreetingForFeet(feet) {
   if (feet <= 400) {
     return 'This one is on me!'
@@ -10,7 +8,6 @@ function scuberGreetingForFeet(feet) {
   }
   else if (feet > 2500) {
     return 'No can do.'
-  } else {
-    return 'Im confused, sorry'
   }
 }
+
