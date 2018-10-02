@@ -6,8 +6,6 @@ function scuberGreetingForFeet(feet) {
   if (feet > 0) {
     return "This one is on me!"
   } else {
-    return "NOT positive";
+    return "pay pleaz";
   }
 }
-
-console.log(testNum(-5));
